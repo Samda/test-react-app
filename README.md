@@ -1,5 +1,5 @@
 # CICD React App
-![CI/CD](https://github.com/Samda/test-react-app/workflows/CI/CD/badge.svg) [![codecov](https://codecov.io/gh/Samda/test-react-app/branch/master/graph/badge.svg?token=0DUOQWW5BV)](https://codecov.io/gh/Samda/test-react-app)
+![CI/CD](https://github.com/Samda/test-react-app/workflows/CI/CD/badge.svg) [![codecov](https://codecov.io/gh/Samda/test-react-app/branch/master/graph/badge.svg?token=0DUOQWW5BV)](https://codecov.io/gh/Samda/test-react-app) [![Test Coverage](https://api.codeclimate.com/v1/badges/80e2779f7a3c855e4427/test_coverage)](https://codeclimate.com/github/Samda/test-react-app/test_coverage)
 
 
 Setup fully automated suites of CI and CD for React App.
