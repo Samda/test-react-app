@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# CICD React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Setup fully automated suites of CI and CD for React App.
 
 ## Available Scripts
 
