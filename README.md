@@ -1,5 +1,6 @@
 # CICD React App
-![CI/CD](https://github.com/Samda/test-react-app/workflows/CI/CD/badge.svg)
+![CI/CD](https://github.com/Samda/test-react-app/workflows/CI/CD/badge.svg) [![codecov](https://codecov.io/gh/Samda/test-react-app/branch/master/graph/badge.svg?token=0DUOQWW5BV)](https://codecov.io/gh/Samda/test-react-app)
+
 
 Setup fully automated suites of CI and CD for React App.
 
